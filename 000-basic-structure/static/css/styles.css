@@ -1,0 +1,15 @@
+/* STYLES
+ * Write your styles here.
+ *
+ * Order of styles
+ *  1. Connecting fonts
+ *  2. General page settings
+ *  3. Individual settings of each page
+ */
+
+/* Just test that the styles is connected correctly.
+ * TODO: Remove or change this block in production.
+ */
+h1 {
+    color: #0a0a0a;
+}
